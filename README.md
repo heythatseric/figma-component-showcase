@@ -14,14 +14,6 @@ When you first open the plugin, you are presented with a set of pre-defined para
 | `Rename Duplicates` | If multiple components have the exact same name, they will be renamed with incremental numbers. | checked, _unchecked_ |
 | `Zoom to Center` | After cleaning up your 💩, view will zoom out to show all components. | _checked_, unchecked |
 | `Sort Alphabetically` | Tidy will sort your components and variants alphabetically. | checked, _unchecked_ |
-
-## Found a bug or have an idea?
-
-This is a team of **one**, but if you have any good ideas or constructive feedback, please do not hesitate to share your thoughts [by creating a new issue](https://github.com/cross-team/figma-tidy-components/issues/new) - screen captures are welcomed.
-
-## Show your support
-
-If you find this plugin useful, feel free to [buy me a 🍺](https://www.patreon.com/mpaiva) at my Patreon page. Thanks! 🙏
  
 ## Contribute
 - Run `yarn` to install dependencies.

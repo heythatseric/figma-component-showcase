@@ -1,14 +1,3 @@
-# Tidy Components
-
-Tidy Components is a Figma plugin that organizes all of the components and variants in alphabetical order on your page in a tidy manner.
-
-![](plugin-github-og-image.png)
-
-## How it works
-
-![](TidyComponentsDemo.gif)
-
-
 ## Getting Started
 
 When you first open the plugin, you are presented with a set of pre-defined parameters that can be used as-is to show you what is possible. 
